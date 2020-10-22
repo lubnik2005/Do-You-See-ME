@@ -1,4 +1,13 @@
-# do-you-see-me-vue
+# Do You See Me?
+
+A simple puzzle game with sheep
+
+![alt text](./demo.gif "Demo")
+
+## Demo
+
+View live deployment [here](https://www.math.uci.edu/~mathceo/games/now-you-see-me/)
+
 
 ## Project setup
 ```
